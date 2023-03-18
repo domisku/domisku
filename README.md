@@ -2,7 +2,6 @@
 
 Welcome to my github profile!  
 
-I am an aspiring web developer, some technologies I enjoy working with include React.js, Next.js.  
+I am a front-end web developer, some technologies I enjoy working with include Angular, React, Stencil, Solid.  
 
-- 🌱 Learning Angular
 - 📫 How to reach me: dskuodziunas@gmail.com
